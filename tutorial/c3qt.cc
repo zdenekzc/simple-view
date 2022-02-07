@@ -1,0 +1,4 @@
+QPushButton button 
+{
+   text = "Abc";
+}

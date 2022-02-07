@@ -1,0 +1,6 @@
+table
+{
+   name = "person";
+   column { name = "first_name"; type = "string"; }
+   column { name = "last_name"; type = "string"; }
+}

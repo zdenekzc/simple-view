@@ -1,0 +1,15 @@
+/*
+table
+{
+   name = "person";
+   column { name = "first_name"; type = "string"; }
+   column { name = "last_name"; type = "string"; }
+}
+*/
+
+a = b;
+if (a) a = c;
+while (a) if (a) a = c;
+if (a) a = b; else a = c;
+if (a) if (b) x = y; else x = z;
+if (a) if (b) x = y; else x = z; else x = w;
