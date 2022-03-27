@@ -1,0 +1,4 @@
+vmthread  MAIN
+{
+  UI_WRITE(LED,LED_ORANGE)
+}
